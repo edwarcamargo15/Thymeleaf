@@ -21,7 +21,7 @@ import Thymeleaf.PrimerThymeleaf;
 /**
  * Servlet implementation class PrimerThymeleaf
  */
-@WebServlet("/PrimerThymeleaf")
+@WebServlet("/")
 public class PrimerServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	
